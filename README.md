@@ -1,4 +1,4 @@
-# Bitcoin Fractal CAT Examples
+# Bitcoin Fractal CAT Examples  
 
 This repository provides detailed examples of Bitcoin Fractal CAT token implementations, specifically for CAT20 and CAT721 tokens. These examples demonstrate how to create, manage, and interact with these token standards on the Bitcoin blockchain.
 
